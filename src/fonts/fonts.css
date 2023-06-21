@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Twine';
+    src: url('TwineRegular.eot');
+    src: url('TwineRegular.eot?#iefix') format('embedded-opentype'),
+        url('TwineRegular.woff2') format('woff2'),
+        url('TwineRegular.woff') format('woff'),
+        url('TwineRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
